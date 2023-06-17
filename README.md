@@ -7,4 +7,5 @@ Location: https://docs.google.com/spreadsheets/d/1EPALWzSZmtwewWOc8YDRLpsEx_x3CW
 Data is organized in two sheets - the dataset from NSI and trends.
 The column trend visualizes the smallest value in the series with red color - most of the places have its lower value in the last year. Fewer have had growth during this period.
 
-![image](https://github.com/eugeniasarafova/population-bg/assets/64950960/7b50120c-fbad-47a9-985a-4c76d77711a6)
+![image](https://github.com/eugeniasarafova/population-bg/assets/64950960/de36bc6c-352c-43f9-bdde-65e465a9f8a4)
+
