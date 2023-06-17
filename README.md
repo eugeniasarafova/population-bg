@@ -14,3 +14,4 @@ This sheet contains the three types of scenarios according to NSI data. Their of
 ![image](https://github.com/eugeniasarafova/population-bg/assets/64950960/58c33a2c-c2e2-47c9-b905-2250a3b42624)
 
 Column E contains data filter for male, female and total population.
+The Percent Change column has color values representing the different values.
